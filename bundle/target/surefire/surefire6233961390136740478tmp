@@ -1,0 +1,34 @@
+#surefire
+#Tue Jan 05 19:06:32 IST 2016
+testClassesDirectory=C\:\\Users\\20000\\Desktop\\Sample AEM Project\\ITCJenkinsTest\\bundle\\target\\test-classes
+classPathUrl.4=C\:\\Users\\20000\\.m2\\repository\\org\\apache\\felix\\org.apache.felix.scr.annotations\\1.6.0\\org.apache.felix.scr.annotations-1.6.0.jar
+classPathUrl.3=C\:\\Users\\20000\\.m2\\repository\\org\\osgi\\org.osgi.core\\4.2.0\\org.osgi.core-4.2.0.jar
+classPathUrl.2=C\:\\Users\\20000\\.m2\\repository\\org\\osgi\\org.osgi.compendium\\4.2.0\\org.osgi.compendium-4.2.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\20000\\Desktop\\Sample AEM Project\\ITCJenkinsTest\\bundle\\target\\classes
+reportsDirectory=C\:\\Users\\20000\\Desktop\\Sample AEM Project\\ITCJenkinsTest\\bundle\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\20000\\Desktop\\Sample AEM Project\\ITCJenkinsTest\\bundle\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\20000\\Desktop\\Sample AEM Project\\ITCJenkinsTest\\bundle\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\20000\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.14.1\\surefire-api-2.14.1.jar
+surefireClassPathUrl.0=C\:\\Users\\20000\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.14.1\\surefire-junit4-2.14.1.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.itc.SimpleUnitTest
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+runStatisticsFile=C\:\\Users\\20000\\Desktop\\Sample AEM Project\\ITCJenkinsTest\\bundle\\.surefire-04245F3B167D6D51844ECBD2C69A2A38C89E0D0F
+includes0=**/Test*.java
+classPathUrl.11=C\:\\Users\\20000\\.m2\\repository\\org\\apache\\sling\\org.apache.sling.jcr.api\\2.1.0\\org.apache.sling.jcr.api-2.1.0.jar
+classPathUrl.10=C\:\\Users\\20000\\.m2\\repository\\org\\apache\\sling\\org.apache.sling.api\\2.2.0\\org.apache.sling.api-2.2.0.jar
+preferTestsFromInStream=false
+classPathUrl.9=C\:\\Users\\20000\\.m2\\repository\\javax\\jcr\\jcr\\2.0\\jcr-2.0.jar
+classPathUrl.8=C\:\\Users\\20000\\.m2\\repository\\javax\\servlet\\servlet-api\\2.5\\servlet-api-2.5.jar
+classPathUrl.7=C\:\\Users\\20000\\.m2\\repository\\junit\\junit\\4.8.1\\junit-4.8.1.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\20000\\.m2\\repository\\org\\slf4j\\slf4j-api\\1.5.10\\slf4j-api-1.5.10.jar
+classPathUrl.5=C\:\\Users\\20000\\.m2\\repository\\biz\\aQute\\bndlib\\1.43.0\\bndlib-1.43.0.jar
